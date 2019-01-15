@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "DailyVerse",
+  "short_name": "DailyVerse",
+  "version": "io.cordova.hellocordova",
+  "description": "Daily Verse for you!",
+  "author": "kjj",
+  "icons": [],
+  "start_url": "index.html"
+}
